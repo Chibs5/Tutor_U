@@ -41,6 +41,7 @@
             app:cardCornerRadius="19dp">
 
             <ImageView
+                android:id="@+id/imagep"
                 android:layout_width="50dp"
                 android:layout_height="50dp"
                 android:layout_marginLeft="162dp"
