@@ -85,6 +85,16 @@
             app:cardBackgroundColor="#2B86C5"
             app:cardCornerRadius="15dp">
 
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Practice"
+                android:textColor="@color/white2"
+                android:textStyle="bold"
+                android:layout_marginTop="100dp"
+                android:paddingStart="40dp"
+                />
+
             <ImageView
                 android:layout_width="65dp"
                 android:layout_height="wrap_content"
@@ -109,6 +119,16 @@
                 android:layout_height="wrap_content"
                 android:layout_gravity="center"
                 android:src="@drawable/mock" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Mock"
+                android:textColor="@color/white2"
+                android:textStyle="bold"
+                android:layout_marginTop="100dp"
+                android:paddingStart="43dp"
+                />
 
         </androidx.cardview.widget.CardView>
 
@@ -138,6 +158,16 @@
                 android:layout_gravity="center"
                 android:src="@drawable/fpractice"/>
 
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Final Practice"
+                android:textColor="@color/white2"
+                android:textStyle="bold"
+                android:layout_marginTop="100dp"
+                android:paddingStart="24dp"
+                />
+
         </androidx.cardview.widget.CardView>
 
         <androidx.cardview.widget.CardView
@@ -156,6 +186,16 @@
                 android:layout_height="wrap_content"
                 android:layout_gravity="center"
                 android:src="@drawable/exam" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Exam"
+                android:textColor="@color/white2"
+                android:textStyle="bold"
+                android:layout_marginTop="100dp"
+                android:paddingStart="44dp"
+                />
 
         </androidx.cardview.widget.CardView>
 
